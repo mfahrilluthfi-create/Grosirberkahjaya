@@ -5,7 +5,7 @@
 @section('content')
 <!-- Hero Banner -->
 <!-- Hero Section -->
-<div class="bg-gradient-to-r from-red-600 via-blue-700 to-blue-900 text-white relative overflow-hidden">
+<div class="bg-gradient-to-r from-green-600 via-green-700 to-blue-900 text-white relative overflow-hidden">
   <div class="container mx-auto px-6 py-20 relative z-10">
     <div class="flex flex-col md:flex-row items-center justify-between gap-10">
 

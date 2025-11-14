@@ -81,7 +81,7 @@
                     <div class="grid grid-cols-2 gap-4">
                         <div class="bg-blue-50 p-3 rounded text-xs">
                             <p class="font-semibold mb-1">Admin</p>
-                            <p class="text-gray-600">admin@elektromart.com</p>
+                            <p class="text-gray-600">admin@grosirberkahjaya.com</p>
                             <p class="text-gray-600">password</p>
                         </div>
                         <div class="bg-green-50 p-3 rounded text-xs">

@@ -2,12 +2,12 @@
 
 @extends('layouts.admin')
 
-@section('title', 'Dashboard Admin - ElektroMart')
+@section('title', 'Dashboard Admin - GrosirBerkahJaya')
 
 @section('content')
 <div class="mb-6">
     <h1 class="text-3xl font-bold text-gray-800">Dashboard</h1>
-    <p class="text-gray-600">Selamat datang di admin panel ElektroMart</p>
+    <p class="text-gray-600">Selamat datang di admin panel Grosir berkah jaya</p>
 </div>
 
 <!-- Statistics Cards -->

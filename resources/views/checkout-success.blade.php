@@ -57,13 +57,13 @@
                         </h3>
                         <p class="text-gray-700 mb-3">Silakan transfer ke salah satu rekening berikut:</p>
                         <div class="space-y-2 text-sm bg-white p-4 rounded">
-                            <div><strong>BCA - 1234567890</strong> a.n. ElektroMart</div>
-                            <div><strong>Mandiri - 0987654321</strong> a.n. ElektroMart</div>
-                            <div><strong>BNI - 5556667778</strong> a.n. ElektroMart</div>
+                            <div><strong>BCA - 1234567890</strong> a.n. GrosirBerkahJaya</div>
+                            <div><strong>Mandiri - 0987654321</strong> a.n. GrosirBerkahJaya</div>
+                            <div><strong>BNI - 5556667778</strong> a.n. GrosirBerkahJaya</div>
                         </div>
                         <p class="text-sm text-gray-600 mt-3">
                             Setelah transfer, konfirmasi melalui WhatsApp:
-                            <strong class="text-green-600">+62 812-3456-7890</strong>
+                            <strong class="text-green-600">+62 813-7849-0913 </strong>
                         </p>
                     </div>
                 @elseif($order->payment_method === 'cod')

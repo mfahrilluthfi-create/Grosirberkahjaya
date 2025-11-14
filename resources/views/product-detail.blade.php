@@ -118,7 +118,7 @@
                     <h3 class="font-bold mb-3">Informasi Penjual:</h3>
                     <div class="flex items-center gap-4 mb-4">
                         <div class="w-12 h-12 bg-blue-600 rounded-full flex items-center justify-center text-white font-bold text-xl">
-                            <i class="fas fa-bolt"></i>
+                            <i class="fas fa-shopping-cart"></i>
                         </div>
                         <div>
                             <p class="font-semibold">Grosir Berkah Jaya</p>

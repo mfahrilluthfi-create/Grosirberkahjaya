@@ -46,8 +46,8 @@
         <p>Mohon menunggu, kami akan menghubungi Anda segera.</p>
 
         <p>Butuh bantuan?</p>
-        <p>📱 WhatsApp: +62 812-3456-7890</p>
-        <p>📧 Email: support@elektromart.com</p>
+        <p>📱 WhatsApp: +62 813-7849-0913 </p>
+        <p>📧 Email: info@grosirberkahjaya.com </p>
     </div>
 </body>
 </html>

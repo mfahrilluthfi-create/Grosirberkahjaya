@@ -4,7 +4,7 @@
 
 @section('content')
     <!-- Hero Section -->
-    <div class="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-20">
+    <div class="bg-gradient-to-r from-green-600 to-blue-800 text-white py-20">
         <div class="container mx-auto px-4 text-center">
             <h1 class="text-5xl font-bold mb-4">Tentang Grosir Berkah Jaya </h1>
             <p class="text-xl">Toko Grosir Terpercaya Sejak 2020</p>

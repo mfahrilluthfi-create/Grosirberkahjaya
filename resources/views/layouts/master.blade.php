@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@yield('title', 'ElektroMart - Toko Alat Elektronik Terpercaya')</title>
+    <title>@yield('title', 'Grosir berkah jaya - Toko grosir Terpercaya')</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
@@ -31,7 +31,7 @@
 
 <body class="bg-gray-50">
     <!-- Header -->
-    <header class="bg-blue-600 text-white shadow-lg sticky top-0 z-50">
+    <header class="bg-green-600 text-white shadow-lg sticky top-0 z-50">
         <div class="container mx-auto px-4">
             <!-- Top Bar -->
             <div class="flex justify-between items-center py-2 border-b border-blue-500 text-sm">
@@ -66,7 +66,7 @@
                 <!-- Search Bar -->
                 <div class="flex-1 max-w-2xl mx-8">
                     <form action="{{ route('products') }}" method="GET" class="relative">
-                        <input type="text" name="search" placeholder="Cari produk elektronik..."
+                        <input type="text" name="search" placeholder="Cari produk di grosir berkah jaya..."
                             class="w-full px-4 py-2 rounded-lg text-gray-800 focus:outline-none focus:ring-2 focus:ring-blue-300">
                         <button type="submit" class="absolute right-2 top-2 text-blue-600 hover:text-blue-800">
                             <i class="fas fa-search"></i>
@@ -183,7 +183,7 @@
                 </div>
             </div>
             <div class="border-t border-gray-700 mt-8 pt-6 text-center text-gray-400 text-sm">
-                <p>&copy; 2024 ElektroMart. All rights reserved.</p>
+                <p>&copy; Grosir Berkah Jaya. All rights reserved.</p>
             </div>
         </div>
     </footer>

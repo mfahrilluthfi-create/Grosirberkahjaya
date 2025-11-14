@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', 'Daftar - ElektroMart')
+@section('title', 'Daftar - Grosir Berkah Jaya')
 
 @section('content')
 <div class="min-h-screen flex items-center justify-center bg-gray-100 py-12 px-4">
