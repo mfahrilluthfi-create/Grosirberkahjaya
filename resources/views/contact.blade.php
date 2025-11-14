@@ -24,7 +24,7 @@
                         </div>
                         <div>
                             <h3 class="font-bold text-lg mb-2 text-gray-800">Alamat</h3>
-                            <p class="text-gray-600 leading-relaxed">Jl. Simpang Jengkol,Kulim <br>RW.15, Simpang Baru<br>Kota Pekanbaru, Riau 28293<br>Indonesia</p>
+                            <p class="text-gray-600 leading-relaxed">Jl. Simpang Jengkol,Kulim <br>Kota Pekanbaru, Riau 28293<br>Indonesia</p>
                         </div>
                     </div>
 
@@ -34,8 +34,8 @@
                         </div>
                         <div>
                             <h3 class="font-bold text-lg mb-2 text-gray-800">Telepon</h3>
-                            <a href="tel:+6281234567890" class="text-gray-600 hover:text-green-600 transition block">+62 812-3456-7890</a>
-                            <a href="tel:+622112345678" class="text-gray-600 hover:text-green-600 transition block">+62 21-1234-5678</a>
+                            <a href="tel:+6281234567890" class="text-gray-600 hover:text-green-600 transition block">+62 813-7849-0913 </a>
+
                         </div>
                     </div>
 
@@ -46,7 +46,7 @@
                         <div>
                             <h3 class="font-bold text-lg mb-2 text-gray-800">Email</h3>
                             <a href="mailto:elyctravoid@gmail.com" class="text-gray-600 hover:text-orange-600 transition block">info@grosirberkahjaya</a>
-                            <a href="mailto:support@elektromart.id" class="text-gray-600 hover:text-orange-600 transition block">support@elektromart.id</a>
+
                         </div>
                     </div>
 
@@ -66,14 +66,14 @@
             <div class="bg-white rounded-xl shadow-xl p-8 lg:p-10">
                 <h2 class="text-3xl font-bold mb-8 text-gray-800">Ikuti Kami</h2>
                 <div class="space-y-4">
-                    <a href="https://www.facebook.com/share/19sDniTYkU/"
+                    <a href="https://www.facebook.com/share/1HcwyamkBV/"
                         class="flex items-center gap-4 p-6 border-2 border-gray-200 rounded-xl hover:border-blue-500 hover:bg-blue-50 hover:shadow-lg transition transform hover:-translate-y-1">
                         <div class="bg-blue-100 w-14 h-14 rounded-lg flex items-center justify-center flex-shrink-0">
                             <i class="fab fa-facebook text-3xl text-blue-600"></i>
                         </div>
                         <div>
                             <p class="font-bold text-gray-800 text-lg">Facebook</p>
-                            <p class="text-sm text-gray-500">@elektromart</p>
+                            <p class="text-sm text-gray-500">@grosirberkahjaya</p>
                         </div>
                         <i class="fas fa-arrow-right ml-auto text-gray-400"></i>
                     </a>
@@ -90,7 +90,7 @@
                         <i class="fas fa-arrow-right ml-auto text-gray-400"></i>
                     </a>
 
-                    <a href="https://wa.me/6281234567890" target="_blank"
+                    <a href="https://wa.me/qr/5A4KBJ6FKL7YN1" target="_blank"
                         class="flex items-center gap-4 p-6 border-2 border-gray-200 rounded-xl hover:border-green-500 hover:bg-green-50 hover:shadow-lg transition transform hover:-translate-y-1">
                         <div class="bg-green-100 w-14 h-14 rounded-lg flex items-center justify-center flex-shrink-0">
                             <i class="fab fa-whatsapp text-3xl text-green-600"></i>
@@ -102,7 +102,7 @@
                         <i class="fas fa-arrow-right ml-auto text-gray-400"></i>
                     </a>
 
-                    
+
                 </div>
             </div>
         </div>
